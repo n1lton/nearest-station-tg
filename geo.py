@@ -1,4 +1,3 @@
-from turtle import left
 from geopy.geocoders import Nominatim
 from math import sqrt
 from json import load
